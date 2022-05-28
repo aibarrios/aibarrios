@@ -12,8 +12,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="aibarrios-twitter" style="background-color: #0077B5" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
-[<img align="left" alt="aibarrios-twitter" style="background-color: #1DA1F2;" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">][twitter]
+[<img align="left" alt="linkedin" width="32px" src="https://img.icons8.com/fluency/48/000000/linkedin.png">][linkedin]
+[<img align="left" alt="twitter" width="32px" src="https://img.icons8.com/fluency/48/000000/twitter.png">][twitter]
 
 <br>
 
@@ -29,7 +29,6 @@
 <img align="left" alt="mongodb" width="32px" src="https://img.icons8.com/color/26/000000/mongodb.png"/>
 <img align="left" alt="git" width="32px" src="https://img.icons8.com/color/26/000000/git.png"/>
 <img align="left" alt="firebase" width="32px" src="https://img.icons8.com/color/26/000000/google-firebase-console.png"/>
-<img align="left" alt="heroku" width="32px" src="https://img.icons8.com/color/26/000000/heroku.png"/>
 <img align="left" alt="ubuntu" width="32px" src="https://img.icons8.com/color/26/000000/ubuntu--v1.png"/>
 <img align="left" alt="windows10" width="32px" src="https://img.icons8.com/color/26/000000/windows-10.png"/>
 <img align="left" alt="ms-excel" width="32px" src="https://img.icons8.com/fluency/26/000000/microsoft-excel-2019.png"/>

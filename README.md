@@ -1,21 +1,41 @@
-### Hello there, I'm Alexander Irvin Barrios - [aicbarrios][linkedin]
+# 👋 Hi, I’m Alexander Irvin C. Barrios
 
-## CCNA Certified | Electronics Engineer
+💡 Aspiring Network Engineer | Fortinet + Cisco Lab Builder | CCNA Certified  
+🌐 I design and simulate secure, enterprise-grade network infrastructure  
+📍 Based in the Philippines
 
-- I'm a career shifter from Process Engineer to Project Engineer as Pilot Development Engineer, turned into a Network Engineer.
-- My last industry experience was building an IoT app using Python 3, MySQL, and Microsoft Excel.
-- I'm currently working on my personal project using EVE-NG, SecureCRT, and Wireshark.
-- I'm currently learning other technologies to increase my knowledge in Network Security.
-- Seeking to transition into a Network Security Engineer role, focusing on firewall management and secure network solutions.
-- Hobbies: Learning new things, watching movies, and motorcycle rides
+---
 
-### Connect with me:
+## 🚀 Career Shift Into Networking
 
-[<img align="left" alt="linkedin" width="32px" src="https://img.icons8.com/fluency/48/000000/linkedin.png">][linkedin]
-[<img align="left" alt="twitter" width="32px" src="https://img.icons8.com/fluency/48/000000/youtube.png">][youtube]
+I’m transitioning from a broader engineering background into a full-time **Network Engineering** role.  
+My hands-on project experience covers:
 
-<br>
-<br>
+- Multi-site hybrid networks (HQ + Branches)
+- Cisco switching/routing, VLAN segmentation, STP hardening
+- FortiGate NGFW, IPsec ADVPN, Remote Access VPN
+- OSPF, iBGP, SD-WAN with SLA-based traffic steering
+- RADIUS (FreeRADIUS on Ubuntu), SNMP, syslog logging, Zabbix monitoring
 
-[linkedin]: https://linkedin.com/in/aicbarrios
-[youtube]: https://www.youtube.com/@AINetSec
+🛠 I built, tested, and documented everything myself in PNETLab with real config files, policy JSONs, and verification steps.
+
+---
+
+## 📂 Featured Project
+
+**🔐 Secure Enterprise Network Simulation**  
+> Cisco + FortiGate | VPN | SD-WAN | NGFW | AAA | Multi-Site
+
+🔗 [View GitHub Project Repo](https://github.com/aibarrios/Secure-Enterprise-Network-Design)  
+📄 [Project Documentation (PDF)](https://github.com/aibarrios/Secure-Enterprise-Network-Design/tree/main/documents/Secure_Enterprise_Network_Design_Project.pdf)  
+🎥 [Watch Short Project Demo](https://www.youtube.com/@AINetSec)
+
+---
+
+## 📬 Let’s Connect
+
+- 📧 ece.aibarrios@gmail.com
+- 💼 [LinkedIn Profile](https://linkedin.com/in/aicbarrios)
+- 📺 [YouTube Channel](https://www.youtube.com/@AINetSec)
+- 📜 [Credly](https://www.credly.com/users/aicbarrios)
+- 🌍 Always open to network engineering roles, and feedback!

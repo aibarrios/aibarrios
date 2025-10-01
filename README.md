@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Alexander Irvin C. Barrios
 
-💡 Aspiring Network Engineer | Fortinet + Cisco Lab Builder | CCNA Certified  
+💡 Aspiring Network Security Engineer | Fortinet + Cisco Lab Builder | CCNA Certified  
 🌐 I design and simulate secure, enterprise-grade network infrastructure  
 📍 Based in the Philippines
 
@@ -38,4 +38,5 @@ My hands-on project experience covers:
 - 💼 [LinkedIn Profile](https://linkedin.com/in/aicbarrios)
 - 📺 [YouTube Channel](https://www.youtube.com/@AINetSec)
 - 📜 [Credly](https://www.credly.com/users/aicbarrios)
-- 🌍 Always open to network engineering roles, and feedback!
+- 🌍 Always open to network security engineering roles, and feedback!
+

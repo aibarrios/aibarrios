@@ -1,6 +1,6 @@
 # Hi, I’m Alexir 👋
 
-I am building a practical blue-team portfolio focused on SOC monitoring, network analysis, endpoint telemetry, and malware/PCAP investigation workflows.
+I am building practical blue-team projects focused on SOC monitoring, network detection, Windows/Linux telemetry, and structured investigation writeups.
 
 My current focus is learning by building and documenting realistic lab environments instead of only collecting notes. I use each project to practice how alerts, logs, network traffic, firewall decisions, and endpoint telemetry fit together during an investigation.
 

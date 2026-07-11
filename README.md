@@ -76,12 +76,12 @@ I try to keep public documentation honest and evidence-based:
 - I separate private study notes from public portfolio writeups
 - I use screenshots, diagrams, and validation checklists to make projects easier to review
 
-## Contact
+## Contact & Credentials
 
-- GitHub: [Alexir-Cybersec](https://github.com/Alexir-Cybersec)
-- Portfolio project: [Segmented SOC Monitoring and Malware Analysis Homelab](https://github.com/Alexir-Cybersec/Segmented-SOC-Monitoring-and-Malware-Analysis-Homelab)
-- LinkedIn: https://www.linkedin.com/in/aicbarrios
-- Credly: https://www.credly.com/users/aicbarrios
+- **LinkedIn:** https://www.linkedin.com/in/aicbarrios
+- **Credly (CCNA Verification):** https://www.credly.com/users/aicbarrios
+- **Portfolio Project:** [Segmented SOC Monitoring and Malware Analysis Homelab](https://github.com/Alexir-Cybersec/Segmented-SOC-Monitoring-and-Malware-Analysis-Homelab)
+- **Email:** ece.aibarrios@gmail.com
 
 ---
 
